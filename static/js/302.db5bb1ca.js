@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmy_project"]=self["webpackChunkmy_project"]||[]).push([[302],{50302:function(e,t,i){i.r(t),i.d(t,{A:function(){return r}});var r={link:"www.schneider-electric.com",domain:"ecostruxure",copyright:"This application is protected by copyright law and international treaties. © 2020 Schneider Electric Industries SAS. All Rights Reserved."}}}]);
